@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<PluginManifest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>TorchDiscord</Name>
+  <Guid>de925892-c6b1-46fd-a56d-e42fd407a0be</Guid>
+  <Version>v1.0.0.8</Version>
+</PluginManifest>
